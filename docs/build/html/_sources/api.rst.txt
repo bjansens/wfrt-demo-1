@@ -1,5 +1,5 @@
 API
 ====
 
-.. autodoc:: utils.foo
+.. automodule:: utils.foo
 	:members:
